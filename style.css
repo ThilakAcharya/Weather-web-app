@@ -1,0 +1,102 @@
+
+*{
+  margin:0;
+  font-family:comme;
+}
+.center{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+body{
+  height:100vh;
+ background-image:/*url('https://source.unsplash.com/1600x900/?landscape');*/
+  object-fit:cover;
+  background-repeat: no-repeat;  
+}
+
+/*-----------navigation----------*/
+
+.nav{
+  height:30px;
+  display:flex;
+  background-color:white;
+  border-radius:30px;
+  cursor:pointer;
+  padding:10px 20px;
+  allign-items:center;
+  width:max-content;
+}
+.search{
+  border:none;
+  outline:none;
+  width:300px;
+  transition:0.8s;
+}
+.fa-search{
+  color:black;
+}
+
+@media(max-width:412px){
+  .search{
+    width:100px;
+  }
+}
+/*-----------*/
+
+/*--------content-section----------*/
+.card{
+  background-color:black;
+  opacity:0.9;
+  border-radius:10px;
+  padding:30px;
+  color:white;
+  width:100%;
+  max-width:70%;
+}
+.title{
+  padding:5px;
+}
+.search{
+  margin-right:6px;
+}
+.nav-bar,.temp,.humidity,.location,.wind-speed,.wind-dir{
+  margin-bottom:0.6rem;
+}
+
+.wind-speed{
+  margin-top:4rem;
+}
+.temp{
+  display:flex;
+  font-size:52px;
+}
+
+.Ftemp{
+  display:flex;
+  flex-direction:column;
+}
+.feelsLikeTemp{
+  font-size:1rem;
+}
+.condition{
+  display:flex;
+  float:right;
+  flex-direction:column;
+
+}
+.description{
+  margin-left:2rem ;
+  font-size:20px;
+}
+.Timedate{
+  display:flex;
+}
+.time{
+  font-size:20px;
+  margin-right:5px;
+}
+.city{
+  font-size:30px;
+  font-weight:bold;
+}
