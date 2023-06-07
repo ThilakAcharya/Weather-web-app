@@ -1,5 +1,6 @@
 # WeatherAPI
 adding existing project. A simple Weather web page using HTML ,CSS ,JavaScript and FORECA weather API for better data.
+Codepen Link for this project: https://codepen.io/Thilak_acharya/pen/XWxwdNv
 
 # API
 API includes the latest measurements from tens of thousands official weather stations worldwide. Foreca gathers observation data from the official SYNOP and METAR weather stations and other similar high-quality sources worldwide. Observations are given from the closest relevant weather observation station that would best tell the weather at the forecast location.
