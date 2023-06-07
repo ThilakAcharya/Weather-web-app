@@ -1,5 +1,6 @@
 # WeatherAPI
 adding existing project. A simple Weather web page using HTML ,CSS ,JavaScript and FORECA weather API for better data.
+
 Codepen Link for this project: https://codepen.io/Thilak_acharya/pen/XWxwdNv
 
 # API
