@@ -6,8 +6,9 @@ API includes the latest measurements from tens of thousands official weather sta
 
 # Sreen Shots 
 
-![Screenshot (134)](https://github.com/ThilakAcharya/Weather-web-app/assets/68364353/6fc34b98-96b5-4b16-a248-c0c9b9953083)
-![Screenshot (135)](https://github.com/ThilakAcharya/Weather-web-app/assets/68364353/5acda004-c2ab-4d2e-bad4-7a76f1df9760)
-![Screenshot (142)](https://github.com/ThilakAcharya/Weather-web-app/assets/68364353/a3ee8f82-0cf4-4196-9724-ccfa0fa13bf5)
-![Screenshot (141)](https://github.com/ThilakAcharya/Weather-web-app/assets/68364353/2efac7a0-c1ac-47b2-a345-fbfb054f91e0)
-![Screenshot (140)](https://github.com/ThilakAcharya/Weather-web-app/assets/68364353/dcc10c05-7095-40a8-8e8f-da2f1eba0c56)
+![Screenshot (150)](https://github.com/ThilakAcharya/Weather-web-app/assets/68364353/d9ee7657-dd8f-4682-99cd-630be8937af9)
+![Screenshot (151)](https://github.com/ThilakAcharya/Weather-web-app/assets/68364353/364d56c4-859b-494c-8db0-9e8cb29a60b0)
+![Screenshot (152)](https://github.com/ThilakAcharya/Weather-web-app/assets/68364353/1d6cd87b-0cf2-4c54-8d52-a8a448fc71b3)
+![Screenshot (153)](https://github.com/ThilakAcharya/Weather-web-app/assets/68364353/a199ef63-d697-4aa4-baa8-aa7520e35bdf)
+![Screenshot (154)](https://github.com/ThilakAcharya/Weather-web-app/assets/68364353/a33392a3-5032-4b86-877e-db160c960239)
+
