@@ -1,5 +1,6 @@
 # WeatherAPI
-adding existing project. A simple Weather web page using HTML ,CSS ,JavaScript and FORECA weather API for better data.
+adding existing project.
+A weather monitoring system built using Foreca Weather API ,which shows current temperature,wind , humidity and weather details along with 3 hours interval
 
 Codepen Link for this project: https://codepen.io/Thilak_acharya/pen/XWxwdNv
 
